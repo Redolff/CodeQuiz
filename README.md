@@ -26,3 +26,5 @@ Contribuciones
 
 Licencia
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.md.
+
+Proyecto deployado: https://code-quiz-pied.vercel.app/
